@@ -1,0 +1,20 @@
+#t{
+    table-layout: fixed;
+    width: 100%;
+}
+td{
+    width: 100%/3;
+}
+#test{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 30px;
+    margin-left: 10%;
+}
+body{
+    background-color: lavenderblush;
+}
+h1{
+    color: brown;
+    margin-left: 10%;
+}
